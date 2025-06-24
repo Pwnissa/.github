@@ -1,6 +1,11 @@
 <h2>𝐖𝐞𝐥𝐜𝐨𝐦𝐞 𝐭𝐨 <𝙋𝙒𝙉𝙄𝙎𝙎𝘼/> 🕶️💻 <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 
-<img align='right' src='https://media.giphy.com/media/LHZyixOnHwDDy/giphy.gif' width='200'>
+<img align='right' src='https://media.giphy.com/media/LHZyixOnHwDDy/giphy.gif'  style='
+    float: right; 
+    margin-left: 15px; 
+    margin-bottom: 10px; 
+    max-width: 40vw; 
+  ' width='200'>
 
 [![GitHub Badge](https://img.shields.io/badge/-@PWNISSA-24292e?style=flat-square\&logo=github\&logoColor=white\&link=https://github.com/pwnissa)](https://github.com/pwnissa)
 [![CTFtime Badge](https://img.shields.io/badge/CTFtime-PWNISSA-red?logo=CTFd&logoColor=white)](https://ctftime.org/team/386813)

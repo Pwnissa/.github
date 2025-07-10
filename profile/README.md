@@ -15,7 +15,7 @@ We are **PWNISSA**, a group of CTF enthusiasts, cybersecurity students, and hors
 ### 💥 What we do
 
 * 🏆 Compete in **Capture The Flag** events.
-* 🔐 Study security topics (pwn, RE, web, crypto, network).
+* 🔐 Study security topics (pwn, REV, web, crypto, network).
 * 📂 Share writeups & challenges for the community.
 * 🎓 Host an Academy for students and aspiring hackers. *(coming soon 👀)*
 
